@@ -1,6 +1,6 @@
 # Err Simplifier
 
-A package for simplifying and colorizing error messages.
+A package for simplifying error messages.
 
 ## Installation
 
