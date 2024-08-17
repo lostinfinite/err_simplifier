@@ -8,7 +8,9 @@ You can install the package using pip:
 
 ```sh
 pip install err_simplifier
-```sh
+```
+
+
 ## Licensing
 
 err-simplifier License Agreement
