@@ -1,3 +1,6 @@
+# Please see the License in the License file.
+# The License acts as a TOS. Please read wisely.
+
 from setuptools import setup, find_packages
 
 setup(
