@@ -10,7 +10,8 @@ setup(
     install_requires=[
         'colorama',
         'subprocess',
-        'os'
+        'os',
+        'time'
     ],
     description='A package for simplifying error messages and CLI outputs',
     long_description=open('README.md').read(),
